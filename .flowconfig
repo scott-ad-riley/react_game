@@ -1,0 +1,17 @@
+[ignore]
+<PROJECT_ROOT>/node_modules
+<PROJECT_ROOT>/test
+<PROJECT_ROOT>/.*\.css$
+<PROJECT_ROOT>/.*\.png$
+<PROJECT_ROOT>/.*\.mp3$
+<PROJECT_ROOT>/.*\.config.js$
+
+[include]
+
+[libs]
+flow-typed
+
+[lints]
+
+[options]
+all=true
